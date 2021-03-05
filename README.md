@@ -1,3 +1,2 @@
 # PowerBI
-Consists of Power BI reports of different datasets.
-The excel fies attached consists of required data.
+Consists of Power BI reports of Customer, Product and Sales analysis of Adventure Works Database.
